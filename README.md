@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-# Academic Journal Portal â€” Research Paper Submission & Review
+# Academic Journal Portal - Research Paper Submission and Review
 
-### *Peer Review Workflow, DOI Indexing, & PDF Manuscript Repository*
+### *Peer Review Workflow, DOI Indexing, and PDF Manuscript Repository*
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -19,7 +19,4 @@ Scientific research journal portal supporting blind peer-review workflows, edito
 ---
 
 ## Developer and Maintainer
-Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
-
-<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
-
+Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
