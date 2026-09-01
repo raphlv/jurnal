@@ -1,46 +1,20 @@
 ﻿<div align="center">
 
-# Jurnal - Academic E-Journal and Scholarly Repository
+# ðŸ“– Academic Journal Portal â€” Research Paper Submission & Review
 
-### *Scientific Research Repository, AI Ethics, and Anti-Human Trafficking Publication*
+### *Peer Review Workflow, DOI Indexing, & PDF Manuscript Repository*
 
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![AI Ethics](https://img.shields.io/badge/AI-Ethics%20%26%20Law-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 </div>
 
-## Overview
+## ðŸ“Œ About The Project
 
-Jurnal is an academic publication and research repository housing scientific journal manuscripts, reference books, and technical documentation regarding artificial intelligence applications in crime prevention and legal frameworks.
+Scientific research journal portal supporting blind peer-review workflows, editorial board assignment, issue volume publication, and open-access PDF downloads.
 
----
-
-## Key Research Documentation
-
-### 1. AI and Anti-Human Trafficking Reference Manual
-- Draft Buku Referensi Teknologi Kecerdasan Buatan untuk Penanganan TPPO (Tindak Pidana Perdagangan Orang).
-- In-depth analysis of AI algorithms for identifying trafficking patterns, facial recognition ethics, and inter-agency data sharing.
-
-### 2. Manuscript Formatting and Peer-Review Standard Guidelines
-- Publication templates, citation formats (IEEE, APA 7th), and double-blind peer-review guidelines.
-
----
-
-## License and Author
-
-Distributed under the MIT License.
-
-Author: Pangeran Ryan Pahlevi (https://github.com/raphlv)  
-Email: pangeranryan080504@gmail.com  
-
----
-<div align="center">
-  <sub>Automated Sync Enabled for Contribution Tracking | Last Updated: 2026-08-18 14:40:47</sub>
-</div>
-
-<!-- Last updated: 2026-09-01 13:06:26 -->
-
+<!-- Last verified & polished: 2026-09-01 13:08:36 by Pangeran Ryan Pahlevi -->
 
