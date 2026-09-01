@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# ðŸ“– Academic Journal Portal â€” Research Paper Submission & Review
+# Academic Journal Portal â€” Research Paper Submission & Review
 
 ### *Peer Review Workflow, DOI Indexing, & PDF Manuscript Repository*
 
@@ -12,9 +12,14 @@
 
 </div>
 
-## ðŸ“Œ About The Project
+## About The Project
 
 Scientific research journal portal supporting blind peer-review workflows, editorial board assignment, issue volume publication, and open-access PDF downloads.
 
-<!-- Last verified & polished: 2026-09-01 13:08:36 by Pangeran Ryan Pahlevi -->
+---
+
+## Developer and Maintainer
+Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
+
+<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
 
